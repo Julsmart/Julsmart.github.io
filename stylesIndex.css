@@ -1,0 +1,13 @@
+h1{
+    letter-spacing: 50px;
+    color: black;
+    text-decoration-line: overline;
+    text-decoration-style: double;
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-color: burlywood;
+
+}
+
